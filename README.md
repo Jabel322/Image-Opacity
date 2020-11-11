@@ -1,22 +1,14 @@
-# Image-Opacity
-
-<html> 
-
+<!doctype html> 
 <html lang="en"> 
-
 <head> 
-     
-<title>Fall Nature 2020</title> 
-charset="utf-8">
-     <style>   
+    <style> 
 #content { background-image: url(fall.jpg); 
-    background-repeat: no-repeat; 
-    margin-left: auto; 
-    margin-right: auto; 
-    width:800px; 
-    height: 520px; 
-    padding-top: 20px; 
-
+       background-repeat: no-repeat; 
+       margin-left: auto; 
+       margin-right: auto; 
+       width:800px; 
+       height: 520px; 
+       padding-top: 20px; 
 } 
 h1 {background-color: #FFFFFF;  
     opacity: 0.6; 
@@ -26,13 +18,15 @@ h1 {background-color: #FFFFFF;
 }
     </style>
 
+<title>Fall Nature 2020</title> 
+<charset="utf-8"> 
 </head> 
 
 <body> 
     <div id=“content”> 
-    <h1>Best of Fall Nature Hikes</h1> 
+    
+        <h1>Best of Fall Nature Hikes</h1> 
+        <img src= "fall3.jpg">
     </div> 
-
 </body> 
-
 </html> 
